@@ -1,0 +1,10 @@
+Acme Corp Remote Work Policy
+Employees may work remotely up to three days per week with manager approval.
+Core collaboration hours are 10:00 to 15:00 Japan Standard Time.
+Remote employees must use the company VPN when accessing internal systems.
+Equipment requests, such as monitors or keyboards, must be submitted through the IT service desk
+and are approved within five business days.
+Expense Policy
+Meals during business travel are reimbursed up to 5,000 yen per day.
+All expenses over 20,000 yen require written approval from a department head.
+Receipts must be submitted within 30 days of the expense date.

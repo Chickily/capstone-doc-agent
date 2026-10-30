@@ -1,0 +1,15 @@
+# secrets
+.env
+.streamlit/secrets.toml
+# python
+.edureka_rag_project/
+__pycache__/
+*.pyc
+.pytest_cache/
+# macOS
+.DS_Store
+__MACOSX/
+# misc
+*.zip
+chroma/
+edureka_rag_project/
